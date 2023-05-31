@@ -1,6 +1,6 @@
-# This work contain the bsaic C.Sharp program 
+# This work contain the basics C.Sharp program 
 Context:
-Print statement
-Variable declaration
-Data type 
+Print statement,
+Variable declaration,
+Data type,
 Operation and Operators
